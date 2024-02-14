@@ -1,2 +1,2 @@
-<h2>What a beautiful main</h2>
+<h2>Page d'accueil</h2>
 <a href="articles">Nos articles du jour</a>

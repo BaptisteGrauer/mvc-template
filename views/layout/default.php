@@ -1,9 +1,11 @@
 <header>
-    <h1>Bienvenue sur mon blog</h1>
+    <h1>En-tête template</h1>
 </header>
 <main>
+    <p>Début contenu</p>
     <?= $content ?>
+    <p>Fin contenu</p>
 </main>
 <footer>
-    <p>Copyright 2019</p>
+    <p>Pied de page template</p>
 </footer>
